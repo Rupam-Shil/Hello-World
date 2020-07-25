@@ -13,6 +13,8 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 ### 1. Register for Hacktoberfest
 You can register from [here](https://hacktoberfest.digitalocean.com).
 
+<iframe="https://hacktoberfest.digitalocean.com/"></iframe>
+
 ### 2. Fork it :fork_and_knife:
 
 You can get your own fork/copy of [Hello-world](https://github.com/Hacktoberfest-2018/Hello-world) by using the <a href="https://github.com/Hacktoberfest-2018/Hello-world/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/Hacktoberfest-2018/Hello-world/new/master?readme=1#fork-destination-box).
